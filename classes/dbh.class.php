@@ -13,9 +13,6 @@
             $this -> username = "root";
             $this -> password = "";
             $this -> dbname = "socialmedia";
-            // $this -> username = "fareed_tentist";
-            // $this -> password = "fareed@11308";
-            // $this -> dbname = "fareed_tentist";
             $this -> charset = "utf8mb4";
 
             try {
